@@ -1,6 +1,6 @@
 # Project instructions
 
-Canonical private GitHub repository: https://github.com/I-Love-Israel/target-destroyed-hud
+Canonical GitHub repository: https://github.com/I-Love-Israel/target-destroyed-hud
 
 After every change to this project, run the relevant checks, commit all task-related source and documentation changes, and push the commit to this repository before reporting completion. Preserve other people's uncommitted work. Never force-push or overwrite remote history. If authentication, access, network problems, or failing checks prevent a push, report the blocker and unpushed changes clearly; never claim they were pushed.
 

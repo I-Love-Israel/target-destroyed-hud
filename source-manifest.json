@@ -1,0 +1,147 @@
+[
+  {
+    "path": "CombatTrackerTest.java",
+    "sha256": "0c372c6d76c14ac1c46526ac3f9bd8e8d8e58b3e953ef4af905389497883beae",
+    "bytes": 2643
+  },
+  {
+    "path": "build.ps1",
+    "sha256": "be32582bd54736bd886b04f746f9fb2fe3445aaf0367b8920f21a5c82319a5c7",
+    "bytes": 1305
+  },
+  {
+    "path": "classpath.ps1",
+    "sha256": "2656bab07954a0e0fc86b41175d8c1fdc4b66581f3dec4f0e6572cb42f08e0e3",
+    "bytes": 964
+  },
+  {
+    "path": "friend-1.21.4/README.md",
+    "sha256": "cf10fd73e23f9fadc6e58116ace37ccc495b9b955f76dfef2578ddea2be2a783",
+    "bytes": 1319
+  },
+  {
+    "path": "friend-1.21.4/build.gradle",
+    "sha256": "d8ac08f3e2c9345cbaa146daa6a076b3773de9caefff2f94c85c2279144c3a60",
+    "bytes": 917
+  },
+  {
+    "path": "friend-1.21.4/gradle.properties",
+    "sha256": "481f985359bb05d528e90876bc76f861be1920efbceefa60f5932094d466f329",
+    "bytes": 77
+  },
+  {
+    "path": "friend-1.21.4/gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046",
+    "bytes": 43583
+  },
+  {
+    "path": "friend-1.21.4/gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "dbe21eb8b7f6a640a05ac928bd1a45b4870737b1e8f2d65dfd8ed204fe1747fe",
+    "bytes": 254
+  },
+  {
+    "path": "friend-1.21.4/gradlew.bat",
+    "sha256": "40090dc997f7e7e57ef1548b81dcb3d3d268311deec8a7f98e3f52c5d9b5cb31",
+    "bytes": 268
+  },
+  {
+    "path": "friend-1.21.4/settings.gradle",
+    "sha256": "0332d9bc04decadd00e2efb12463ea87f4bc65bf3d90c541ab51d06e84cb713c",
+    "bytes": 194
+  },
+  {
+    "path": "friend-1.21.4/src/main/java/dev/targethud/CombatTracker.java",
+    "sha256": "0ce7c963beacedf77f129527a97a5550cdbf3682125131aa28413d2aa1531d4f",
+    "bytes": 2580
+  },
+  {
+    "path": "friend-1.21.4/src/main/java/dev/targethud/TargetHud.java",
+    "sha256": "22ddb1453769015b4a449842c99f3dea54752c5cb40b47778f1970de037dad45",
+    "bytes": 11427
+  },
+  {
+    "path": "friend-1.21.4/src/main/java/dev/targethud/mixin/GameModeMixin.java",
+    "sha256": "5e75108eb1ba86595c302879d481832fbd15e7a38c14e1a24f55924e955c124e",
+    "bytes": 1168
+  },
+  {
+    "path": "friend-1.21.4/src/main/java/dev/targethud/mixin/PacketListenerMixin.java",
+    "sha256": "fa8aeed77e8fd903b064f3e4ef6031ad0f2d888271ad90914a41cca7fe5bb401",
+    "bytes": 1289
+  },
+  {
+    "path": "friend-1.21.4/src/main/resources/FONT-LICENSE.txt",
+    "sha256": "8f24842e9174beda18a556c2ae7d54f5dc444340c19a3a9ef77e23bca366adbd",
+    "bytes": 4370
+  },
+  {
+    "path": "friend-1.21.4/src/main/resources/assets/targethud/font/combat.json",
+    "sha256": "6de0f7a59645efa828e1c771de7dd49756a59e5ca74400c673002cc2de66d348",
+    "bytes": 177
+  },
+  {
+    "path": "friend-1.21.4/src/main/resources/assets/targethud/font/combat.ttf",
+    "sha256": "6385967fe921a6ee837221cde461e695e77f8931a3ca4bc82c7c1c1a5fe47f86",
+    "bytes": 456428
+  },
+  {
+    "path": "friend-1.21.4/src/main/resources/fabric.mod.json",
+    "sha256": "a76156c8e59e8676341a0739ec0a43b04654224aee57b636db87b54e0e8fab3b",
+    "bytes": 479
+  },
+  {
+    "path": "friend-1.21.4/src/main/resources/targethud.mixins.json",
+    "sha256": "952779357c902e6abb3dc288c1c20e80d21169a4b23a37e75b5e6d50d9c5f9ee",
+    "bytes": 221
+  },
+  {
+    "path": "friend-1.21.4/src/test/java/CombatTrackerTest.java",
+    "sha256": "0c372c6d76c14ac1c46526ac3f9bd8e8d8e58b3e953ef4af905389497883beae",
+    "bytes": 2643
+  },
+  {
+    "path": "src/main/java/dev/targethud/CombatTracker.java",
+    "sha256": "0ce7c963beacedf77f129527a97a5550cdbf3682125131aa28413d2aa1531d4f",
+    "bytes": 2580
+  },
+  {
+    "path": "src/main/java/dev/targethud/TargetHud.java",
+    "sha256": "2b1615b5442cc3126604033e21c6dabe725f3158c1741368e9dba255c891d037",
+    "bytes": 11720
+  },
+  {
+    "path": "src/main/java/dev/targethud/mixin/GameModeMixin.java",
+    "sha256": "5e75108eb1ba86595c302879d481832fbd15e7a38c14e1a24f55924e955c124e",
+    "bytes": 1168
+  },
+  {
+    "path": "src/main/java/dev/targethud/mixin/PacketListenerMixin.java",
+    "sha256": "fa8aeed77e8fd903b064f3e4ef6031ad0f2d888271ad90914a41cca7fe5bb401",
+    "bytes": 1289
+  },
+  {
+    "path": "src/main/resources/FONT-LICENSE.txt",
+    "sha256": "8f24842e9174beda18a556c2ae7d54f5dc444340c19a3a9ef77e23bca366adbd",
+    "bytes": 4370
+  },
+  {
+    "path": "src/main/resources/assets/targethud/font/combat.json",
+    "sha256": "6de0f7a59645efa828e1c771de7dd49756a59e5ca74400c673002cc2de66d348",
+    "bytes": 177
+  },
+  {
+    "path": "src/main/resources/assets/targethud/font/combat.ttf",
+    "sha256": "6385967fe921a6ee837221cde461e695e77f8931a3ca4bc82c7c1c1a5fe47f86",
+    "bytes": 456428
+  },
+  {
+    "path": "src/main/resources/fabric.mod.json",
+    "sha256": "d61feac9d5de5c113bbd001e3a1f9640c12995badc960b3c5671abffa1a582b6",
+    "bytes": 474
+  },
+  {
+    "path": "src/main/resources/targethud.mixins.json",
+    "sha256": "febd7553ec04f24af3f00a19fc81ffd5ae98700409e2e9ad4d33821a6c8971e9",
+    "bytes": 186
+  }
+]

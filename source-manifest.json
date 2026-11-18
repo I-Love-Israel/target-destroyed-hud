@@ -1,12 +1,22 @@
 [
   {
+    "path": "AGENTS.md",
+    "sha256": "3b347d846d4e364fc96a5c3c251de7224a6c35633f811f2511f9c0f7a8b85e0f",
+    "bytes": 993
+  },
+  {
     "path": "CombatTrackerTest.java",
     "sha256": "0c372c6d76c14ac1c46526ac3f9bd8e8d8e58b3e953ef4af905389497883beae",
     "bytes": 2643
   },
   {
+    "path": "LootGuardTest.java",
+    "sha256": "e3cf91f6e2c5771b3007caed258f871de7825a575bce83e5c638ca0b615631d8",
+    "bytes": 3573
+  },
+  {
     "path": "build.ps1",
-    "sha256": "be32582bd54736bd886b04f746f9fb2fe3445aaf0367b8920f21a5c82319a5c7",
+    "sha256": "8980c0fe38e0061698febe71b36cf322179e61fc4e4bab6a4a80fb365eb9ba5f",
     "bytes": 1305
   },
   {
@@ -105,9 +115,14 @@
     "bytes": 2580
   },
   {
+    "path": "src/main/java/dev/targethud/LootGuard.java",
+    "sha256": "bd249bb2d4b74d37694766d2f6aeb4c7117682f1f38058ee61429e5c821b8404",
+    "bytes": 2190
+  },
+  {
     "path": "src/main/java/dev/targethud/TargetHud.java",
-    "sha256": "2b1615b5442cc3126604033e21c6dabe725f3158c1741368e9dba255c891d037",
-    "bytes": 11720
+    "sha256": "f00f25b108d860a8fb05fed8425609ad24ed6b40684ed77b9ac6fc6eca2e39e8",
+    "bytes": 17295
   },
   {
     "path": "src/main/java/dev/targethud/mixin/GameModeMixin.java",
@@ -136,8 +151,8 @@
   },
   {
     "path": "src/main/resources/fabric.mod.json",
-    "sha256": "d61feac9d5de5c113bbd001e3a1f9640c12995badc960b3c5671abffa1a582b6",
-    "bytes": 474
+    "sha256": "319cefee80c9563e0fd5dba9374b408a824198b0274317bfeb20e976fc6e4163",
+    "bytes": 502
   },
   {
     "path": "src/main/resources/targethud.mixins.json",

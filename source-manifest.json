@@ -26,12 +26,12 @@
   },
   {
     "path": "friend-1.21.4/README.md",
-    "sha256": "cf10fd73e23f9fadc6e58116ace37ccc495b9b955f76dfef2578ddea2be2a783",
-    "bytes": 1319
+    "sha256": "733400b3c05f6fc562edd69a7962fb59f8b18a7f4aa9bd14acc62968f70ef17f",
+    "bytes": 1598
   },
   {
     "path": "friend-1.21.4/build.gradle",
-    "sha256": "d8ac08f3e2c9345cbaa146daa6a076b3773de9caefff2f94c85c2279144c3a60",
+    "sha256": "b00322d7d7153c7b43a7c320465bdef5d7b8646aaebbd5d1d99b2d86864082ee",
     "bytes": 917
   },
   {
@@ -65,9 +65,14 @@
     "bytes": 2580
   },
   {
+    "path": "friend-1.21.4/src/main/java/dev/targethud/LootGuard.java",
+    "sha256": "bd249bb2d4b74d37694766d2f6aeb4c7117682f1f38058ee61429e5c821b8404",
+    "bytes": 2190
+  },
+  {
     "path": "friend-1.21.4/src/main/java/dev/targethud/TargetHud.java",
-    "sha256": "22ddb1453769015b4a449842c99f3dea54752c5cb40b47778f1970de037dad45",
-    "bytes": 11427
+    "sha256": "c4e7ad1ec47d618c54069269995c4e56154d96b2d58db9e848e3899801a4037c",
+    "bytes": 17008
   },
   {
     "path": "friend-1.21.4/src/main/java/dev/targethud/mixin/GameModeMixin.java",
@@ -96,8 +101,8 @@
   },
   {
     "path": "friend-1.21.4/src/main/resources/fabric.mod.json",
-    "sha256": "a76156c8e59e8676341a0739ec0a43b04654224aee57b636db87b54e0e8fab3b",
-    "bytes": 479
+    "sha256": "c2cacb469c2127092d5601d767d17b310d5a89d8c792ae6e7d6358532ddc404c",
+    "bytes": 507
   },
   {
     "path": "friend-1.21.4/src/main/resources/targethud.mixins.json",
